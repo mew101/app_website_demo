@@ -90,17 +90,41 @@ margin: 8% 5% 2% 0;
 .feature-icon:hover {
   color: #007FFF;
 }
+
+h2 {
+  font-family: "Montserrat-Bold";
+  font-size: 3.5rem;
+  line-height: 1.5
+}
+
 /*
   testimonials */
   #testimonials {
-    padding: 7%;
+    padding: 10% 20%;
     text-align: center;
     background-color:  #00B2EE;
     color: #fff;
+    font-size: 1rem;
   }
 
-  h2 {
-    font-family: "Montserrat-Bold";
-    font-size: 3.5rem;
-    line-height: 1.5
+
+  #testimonials h4 {
+      font-size: 1.25rem;
+  }
+
+
+
+  /* pricing */
+
+  #pricing {
+    padding: 100px;
+    text-align: center;
+  }
+
+  .pricing-column {
+    padding: 3% 2%;
+  }
+
+  .card-header {
+    background-color: #00B2EE;
   }
