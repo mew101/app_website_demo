@@ -10,7 +10,7 @@ body {
 }
 
 .container-fluid {
-  padding: 3% 5%;
+  padding: 3% 15%;
 }
 
 .navbar-brand {
@@ -29,11 +29,11 @@ h1 {
 
  /* navbar */
 .navbar {
-  padding: 0 0 4.5rem;
+  padding-bottom: 4.5rem;
 }
 
 .nav-item {
-  padding: 16px;
+  padding: 0 16px;
 }
 
 .nav-link {
@@ -55,6 +55,7 @@ margin: 8% 5% 2% 0;
 
 /* title-image */
 .title-image {
+
  }
 
 /* features section */
