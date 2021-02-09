@@ -10,7 +10,7 @@ body {
 }
 
 .container-fluid {
-  padding: 3% 10%;
+  padding: 3% 5%;
 }
 
 .navbar-brand {
@@ -55,8 +55,6 @@ margin: 8% 5% 2% 0;
 
 /* title-image */
 .title-image {
-
-   margin-left: 12rem;
  }
 
 /* features section */
