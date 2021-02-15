@@ -6,8 +6,6 @@ body {
 #title {
   background-color: #00B2EE;
   color: #fff;
-
-
 }
 
 .container-fluid {
@@ -106,8 +104,8 @@ margin: 8% 5% 2% 0;
 
 h2 {
   font-family: "Montserrat-Bold";
-  font-size: 3.5rem;
-  line-height: 1.5
+  font-size: 2.5rem;
+  padding-top: 2rem;
 }
 
 /*
@@ -142,6 +140,21 @@ h2 {
     background-color: #00B2EE;
   }
 
+/* Call to Action */
+  #action {
+    font-family: "Montserrat-Black";
+    background-color: #00B2EE;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+  }
+
+  /* Footer */
+  #footer {
+    text-align: center;
+    padding: 1.5rem;
+  }
+
   @media (max-width: 990px) {
     #title {
       text-align: center;
@@ -150,6 +163,6 @@ h2 {
     .title-image {
       position: static;
       transform: rotate(0);
-      
+
     }
   }
